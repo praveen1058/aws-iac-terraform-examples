@@ -70,9 +70,9 @@ Modularize resources to reuse code across multiple environments.
 
 ---
 
-## ⚡ How to Use
 
-References
+
+## ⚡  References
 
 Terraform AWS Provider Documentation
 Terraform Best Practices
