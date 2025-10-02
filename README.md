@@ -20,27 +20,6 @@ This repo contains Terraform scripts to provision and manage AWS resources, incl
 > Each module is designed to be **modular, reusable, and environment-friendly**.
 
 ---
-## 📁 Repository Structure
-
-aws-iac-terraform-examples/
-├── vpc/
-│ ├── main.tf
-│ ├── variables.tf
-│ └── outputs.tf
-├── ec2/
-│ ├── main.tf
-│ ├── variables.tf
-│ └── outputs.tf
-├── s3/
-│ ├── main.tf
-│ ├── variables.tf
-│ └── outputs.tf
-├── rds/
-│ ├── main.tf
-│ ├── variables.tf
-│ └── outputs.tf
-└── README.md
-
 
 
 > **Note:** Each folder contains an example Terraform configuration for a specific AWS service.
