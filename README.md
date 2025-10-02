@@ -68,10 +68,15 @@ Keep secrets out of code; use AWS Secrets Manager or environment variables.
 
 Modularize resources to reuse code across multiple environments.
 
+---
+
+## ⚡ How to Use
+
 References
 
 Terraform AWS Provider Documentation
-
+Terraform Best Practices
+AWS Well-Architected Framework
 
 
 
